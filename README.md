@@ -8,10 +8,11 @@ This document/repo is a work in progress
 
 ### Upcoming
 
-* 2022-09-14 (Monthly)
+* 2022-10-12 (Monthly)
 
 ### Previous
 
+* 2022-09-14 Mission Statement, Ideal Members, First Issues to Tackle
 * 2022-08-11 Discussion of Goals and Approach
 * 2022-07-19 Christie's Art+Tech Summit 2022
 

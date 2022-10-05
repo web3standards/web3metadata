@@ -57,22 +57,22 @@ legal:
   copyright:
     license: Attribution 4.0 International (CC BY 4.0),
     license-short: cc-by-4.0
-	owners:
-	  Rick Manelius		
-	contact-info:
-	  ethereum-address: 0x123456678,
-	  email: copyright-inquiries@manelius.com,
-	  phone: NA
-	IP: NA
-	software-license: NA
-	trademarks: NA
+  owners:
+    Rick Manelius		
+  contact-info:
+    ethereum-address: 0x123456678,
+    email: copyright-inquiries@manelius.com,
+    phone: NA
+  IP: NA
+  software-license: NA
+  trademarks: NA
   changelog:
-	2:	
-	  timestamp: 2022-09-26 06:01:01,
-	  url: ipfs://ipfs/Qm12343ARVgxv6rXqVPiikMJ8u2NLgmgszg13pYrDKEoiz
-	1:
-	  timestamp: 2022-09-25 06:01:01,
-	  url: ipfs://ipfs/Qm56783ARVgxv6rXqVPiikMJ8u2NLgmgszg13pYrDKEoiw
+    2:	
+      timestamp: 2022-09-26 06:01:01,
+      url: ipfs://ipfs/Qm12343ARVgxv6rXqVPiikMJ8u2NLgmgszg13pYrDKEoiz
+    1:
+      timestamp: 2022-09-25 06:01:01,
+      url: ipfs://ipfs/Qm56783ARVgxv6rXqVPiikMJ8u2NLgmgszg13pYrDKEoiw
 ```
 
 Please note that `IP`, `software-license`, and `trademarks` keys are examples of where legal information could be extended to include many other things. They could be explicitly claimed by their inclusion and referencing. They could be explicitly excluded by specifying `NA` or implicitly excluded by being undefined alongside other factors.

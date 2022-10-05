@@ -56,7 +56,7 @@ name: Metadata4Ever,
 legal:
   copyright:
     license: Attribution 4.0 International (CC BY 4.0),
-		license-short: cc-by-4.0
+    license-short: cc-by-4.0
 	owners:
 	  Rick Manelius		
 	contact-info:
